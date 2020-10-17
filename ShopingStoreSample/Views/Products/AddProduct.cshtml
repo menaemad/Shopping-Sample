@@ -1,0 +1,41 @@
+﻿@model ShopingStoreSample.Models.Product
+@{
+    ViewBag.Title = "AddProduct";
+    var category=ViewBag.cat;
+    var cat = new SelectList(category, "ID", "Name");
+}
+
+<div class="super_container">
+    <br /><br /><br />
+    @using (Html.BeginForm("SaveProdcut", "Products", FormMethod.Post,
+                   new { enctype = "multipart/form-data" }))
+    {
+        <br />
+        @Html.Label("Choose Category: ")
+        @Html.DropDownList("CategoryID", cat, new { @class = "form-control" })
+        <br /> <br />
+        @Html.HiddenFor(model => model.CategoryID)
+
+        @Html.Label("Product Name: ")
+        @Html.EditorFor(p => p.Name)
+        <br /> <br />
+
+        @Html.Label("Quantity : ")
+        @Html.EditorFor(p => p.Quantity)
+        <br /><br />
+
+        @Html.Label("Price: ")
+        @Html.EditorFor(p => p.Price)
+        <br /><br />
+        <div class="form-group">
+            @Html.LabelFor(model => model.Image, htmlAttributes: new { @class = "control-label col-6" })
+            <div class="col-6">
+                <input type="file" name="file" id="file" style="width: 100%;" /> <br />
+                @Html.ValidationMessageFor(model => model.Image, "", new { @class = "text-danger" })
+            </div>
+        </div>
+        <input type="submit" value="Add Product" class="btn btn-dark" />
+
+    }
+
+</div>

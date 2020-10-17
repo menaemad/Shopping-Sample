@@ -1,0 +1,166 @@
+H:\3Month\MVC\ShopingStoreSample\ShopingStoreSample\bin\ShopingStoreSample.dll.config
+H:\3Month\MVC\ShopingStoreSample\ShopingStoreSample\bin\ShopingStoreSample.dll
+H:\3Month\MVC\ShopingStoreSample\ShopingStoreSample\bin\ShopingStoreSample.pdb
+H:\3Month\MVC\ShopingStoreSample\ShopingStoreSample\bin\roslyn\csc.exe
+H:\3Month\MVC\ShopingStoreSample\ShopingStoreSample\bin\roslyn\csc.exe.config
+H:\3Month\MVC\ShopingStoreSample\ShopingStoreSample\bin\roslyn\csc.rsp
+H:\3Month\MVC\ShopingStoreSample\ShopingStoreSample\bin\roslyn\csi.exe
+H:\3Month\MVC\ShopingStoreSample\ShopingStoreSample\bin\roslyn\csi.exe.config
+H:\3Month\MVC\ShopingStoreSample\ShopingStoreSample\bin\roslyn\csi.rsp
+H:\3Month\MVC\ShopingStoreSample\ShopingStoreSample\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\3Month\MVC\ShopingStoreSample\ShopingStoreSample\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\3Month\MVC\ShopingStoreSample\ShopingStoreSample\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+H:\3Month\MVC\ShopingStoreSample\ShopingStoreSample\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\3Month\MVC\ShopingStoreSample\ShopingStoreSample\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+H:\3Month\MVC\ShopingStoreSample\ShopingStoreSample\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\3Month\MVC\ShopingStoreSample\ShopingStoreSample\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\3Month\MVC\ShopingStoreSample\ShopingStoreSample\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+H:\3Month\MVC\ShopingStoreSample\ShopingStoreSample\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+H:\3Month\MVC\ShopingStoreSample\ShopingStoreSample\bin\roslyn\Microsoft.Managed.Core.targets
+H:\3Month\MVC\ShopingStoreSample\ShopingStoreSample\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\3Month\MVC\ShopingStoreSample\ShopingStoreSample\bin\roslyn\Microsoft.Win32.Primitives.dll
+H:\3Month\MVC\ShopingStoreSample\ShopingStoreSample\bin\roslyn\System.AppContext.dll
+H:\3Month\MVC\ShopingStoreSample\ShopingStoreSample\bin\roslyn\System.Collections.Immutable.dll
+H:\3Month\MVC\ShopingStoreSample\ShopingStoreSample\bin\roslyn\System.Console.dll
+H:\3Month\MVC\ShopingStoreSample\ShopingStoreSample\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+H:\3Month\MVC\ShopingStoreSample\ShopingStoreSample\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+H:\3Month\MVC\ShopingStoreSample\ShopingStoreSample\bin\roslyn\System.Diagnostics.StackTrace.dll
+H:\3Month\MVC\ShopingStoreSample\ShopingStoreSample\bin\roslyn\System.Globalization.Calendars.dll
+H:\3Month\MVC\ShopingStoreSample\ShopingStoreSample\bin\roslyn\System.IO.Compression.dll
+H:\3Month\MVC\ShopingStoreSample\ShopingStoreSample\bin\roslyn\System.IO.Compression.ZipFile.dll
+H:\3Month\MVC\ShopingStoreSample\ShopingStoreSample\bin\roslyn\System.IO.FileSystem.dll
+H:\3Month\MVC\ShopingStoreSample\ShopingStoreSample\bin\roslyn\System.IO.FileSystem.Primitives.dll
+H:\3Month\MVC\ShopingStoreSample\ShopingStoreSample\bin\roslyn\System.Net.Http.dll
+H:\3Month\MVC\ShopingStoreSample\ShopingStoreSample\bin\roslyn\System.Net.Sockets.dll
+H:\3Month\MVC\ShopingStoreSample\ShopingStoreSample\bin\roslyn\System.Reflection.Metadata.dll
+H:\3Month\MVC\ShopingStoreSample\ShopingStoreSample\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+H:\3Month\MVC\ShopingStoreSample\ShopingStoreSample\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+H:\3Month\MVC\ShopingStoreSample\ShopingStoreSample\bin\roslyn\System.Security.Cryptography.Encoding.dll
+H:\3Month\MVC\ShopingStoreSample\ShopingStoreSample\bin\roslyn\System.Security.Cryptography.Primitives.dll
+H:\3Month\MVC\ShopingStoreSample\ShopingStoreSample\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+H:\3Month\MVC\ShopingStoreSample\ShopingStoreSample\bin\roslyn\System.Text.Encoding.CodePages.dll
+H:\3Month\MVC\ShopingStoreSample\ShopingStoreSample\bin\roslyn\System.Threading.Tasks.Extensions.dll
+H:\3Month\MVC\ShopingStoreSample\ShopingStoreSample\bin\roslyn\System.ValueTuple.dll
+H:\3Month\MVC\ShopingStoreSample\ShopingStoreSample\bin\roslyn\System.Xml.ReaderWriter.dll
+H:\3Month\MVC\ShopingStoreSample\ShopingStoreSample\bin\roslyn\System.Xml.XmlDocument.dll
+H:\3Month\MVC\ShopingStoreSample\ShopingStoreSample\bin\roslyn\System.Xml.XPath.dll
+H:\3Month\MVC\ShopingStoreSample\ShopingStoreSample\bin\roslyn\System.Xml.XPath.XDocument.dll
+H:\3Month\MVC\ShopingStoreSample\ShopingStoreSample\bin\roslyn\vbc.exe
+H:\3Month\MVC\ShopingStoreSample\ShopingStoreSample\bin\roslyn\vbc.exe.config
+H:\3Month\MVC\ShopingStoreSample\ShopingStoreSample\bin\roslyn\vbc.rsp
+H:\3Month\MVC\ShopingStoreSample\ShopingStoreSample\bin\roslyn\VBCSCompiler.exe
+H:\3Month\MVC\ShopingStoreSample\ShopingStoreSample\bin\roslyn\VBCSCompiler.exe.config
+H:\3Month\MVC\ShopingStoreSample\ShopingStoreSample\bin\Antlr3.Runtime.dll
+H:\3Month\MVC\ShopingStoreSample\ShopingStoreSample\bin\EntityFramework.dll
+H:\3Month\MVC\ShopingStoreSample\ShopingStoreSample\bin\EntityFramework.SqlServer.dll
+H:\3Month\MVC\ShopingStoreSample\ShopingStoreSample\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\3Month\MVC\ShopingStoreSample\ShopingStoreSample\bin\Microsoft.Web.Infrastructure.dll
+H:\3Month\MVC\ShopingStoreSample\ShopingStoreSample\bin\Newtonsoft.Json.dll
+H:\3Month\MVC\ShopingStoreSample\ShopingStoreSample\bin\System.Web.Helpers.dll
+H:\3Month\MVC\ShopingStoreSample\ShopingStoreSample\bin\System.Web.Mvc.dll
+H:\3Month\MVC\ShopingStoreSample\ShopingStoreSample\bin\System.Web.Optimization.dll
+H:\3Month\MVC\ShopingStoreSample\ShopingStoreSample\bin\System.Web.Razor.dll
+H:\3Month\MVC\ShopingStoreSample\ShopingStoreSample\bin\System.Web.WebPages.Deployment.dll
+H:\3Month\MVC\ShopingStoreSample\ShopingStoreSample\bin\System.Web.WebPages.dll
+H:\3Month\MVC\ShopingStoreSample\ShopingStoreSample\bin\System.Web.WebPages.Razor.dll
+H:\3Month\MVC\ShopingStoreSample\ShopingStoreSample\bin\WebGrease.dll
+H:\3Month\MVC\ShopingStoreSample\ShopingStoreSample\bin\EntityFramework.xml
+H:\3Month\MVC\ShopingStoreSample\ShopingStoreSample\bin\EntityFramework.SqlServer.xml
+H:\3Month\MVC\ShopingStoreSample\ShopingStoreSample\bin\System.Web.Helpers.xml
+H:\3Month\MVC\ShopingStoreSample\ShopingStoreSample\bin\System.Web.Mvc.xml
+H:\3Month\MVC\ShopingStoreSample\ShopingStoreSample\bin\System.Web.Optimization.xml
+H:\3Month\MVC\ShopingStoreSample\ShopingStoreSample\bin\System.Web.Razor.xml
+H:\3Month\MVC\ShopingStoreSample\ShopingStoreSample\bin\System.Web.WebPages.xml
+H:\3Month\MVC\ShopingStoreSample\ShopingStoreSample\bin\System.Web.WebPages.Deployment.xml
+H:\3Month\MVC\ShopingStoreSample\ShopingStoreSample\bin\System.Web.WebPages.Razor.xml
+H:\3Month\MVC\ShopingStoreSample\ShopingStoreSample\bin\Newtonsoft.Json.xml
+H:\3Month\MVC\ShopingStoreSample\ShopingStoreSample\bin\Antlr3.Runtime.pdb
+H:\3Month\MVC\ShopingStoreSample\ShopingStoreSample\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\3Month\MVC\ShopingStoreSample\ShopingStoreSample\obj\Debug\ShopingStoreSample.csprojAssemblyReference.cache
+H:\3Month\MVC\ShopingStoreSample\ShopingStoreSample\obj\Debug\ShopingStoreSample.csproj.CoreCompileInputs.cache
+H:\3Month\MVC\ShopingStoreSample\ShopingStoreSample\obj\Debug\ShopingStoreSample.csproj.CopyComplete
+H:\3Month\MVC\ShopingStoreSample\ShopingStoreSample\obj\Debug\ShopingStoreSample.dll
+H:\3Month\MVC\ShopingStoreSample\ShopingStoreSample\obj\Debug\ShopingStoreSample.pdb
+H:\3Month\MVC\ShopingStoreSample - Copy\ShopingStoreSample\obj\Debug\ShopingStoreSample.csprojAssemblyReference.cache
+H:\3Month\MVC\ShopingStoreSample - Copy\ShopingStoreSample\obj\Debug\ShopingStoreSample.csproj.CoreCompileInputs.cache
+H:\3Month\MVC\ShopingStoreSample - Copy\ShopingStoreSample\obj\Debug\ShopingStoreSample.dll
+H:\3Month\MVC\ShopingStoreSample - Copy\ShopingStoreSample\obj\Debug\ShopingStoreSample.pdb
+H:\3Month\MVC\ShopingStoreSample - Copy\ShopingStoreSample\bin\ShopingStoreSample.dll.config
+H:\3Month\MVC\ShopingStoreSample - Copy\ShopingStoreSample\bin\ShopingStoreSample.dll
+H:\3Month\MVC\ShopingStoreSample - Copy\ShopingStoreSample\bin\ShopingStoreSample.pdb
+H:\3Month\MVC\ShopingStoreSample - Copy\ShopingStoreSample\bin\roslyn\csc.exe
+H:\3Month\MVC\ShopingStoreSample - Copy\ShopingStoreSample\bin\roslyn\csc.exe.config
+H:\3Month\MVC\ShopingStoreSample - Copy\ShopingStoreSample\bin\roslyn\csc.rsp
+H:\3Month\MVC\ShopingStoreSample - Copy\ShopingStoreSample\bin\roslyn\csi.exe
+H:\3Month\MVC\ShopingStoreSample - Copy\ShopingStoreSample\bin\roslyn\csi.exe.config
+H:\3Month\MVC\ShopingStoreSample - Copy\ShopingStoreSample\bin\roslyn\csi.rsp
+H:\3Month\MVC\ShopingStoreSample - Copy\ShopingStoreSample\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\3Month\MVC\ShopingStoreSample - Copy\ShopingStoreSample\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\3Month\MVC\ShopingStoreSample - Copy\ShopingStoreSample\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+H:\3Month\MVC\ShopingStoreSample - Copy\ShopingStoreSample\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\3Month\MVC\ShopingStoreSample - Copy\ShopingStoreSample\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+H:\3Month\MVC\ShopingStoreSample - Copy\ShopingStoreSample\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\3Month\MVC\ShopingStoreSample - Copy\ShopingStoreSample\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\3Month\MVC\ShopingStoreSample - Copy\ShopingStoreSample\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+H:\3Month\MVC\ShopingStoreSample - Copy\ShopingStoreSample\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+H:\3Month\MVC\ShopingStoreSample - Copy\ShopingStoreSample\bin\roslyn\Microsoft.Managed.Core.targets
+H:\3Month\MVC\ShopingStoreSample - Copy\ShopingStoreSample\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\3Month\MVC\ShopingStoreSample - Copy\ShopingStoreSample\bin\roslyn\Microsoft.Win32.Primitives.dll
+H:\3Month\MVC\ShopingStoreSample - Copy\ShopingStoreSample\bin\roslyn\System.AppContext.dll
+H:\3Month\MVC\ShopingStoreSample - Copy\ShopingStoreSample\bin\roslyn\System.Collections.Immutable.dll
+H:\3Month\MVC\ShopingStoreSample - Copy\ShopingStoreSample\bin\roslyn\System.Console.dll
+H:\3Month\MVC\ShopingStoreSample - Copy\ShopingStoreSample\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+H:\3Month\MVC\ShopingStoreSample - Copy\ShopingStoreSample\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+H:\3Month\MVC\ShopingStoreSample - Copy\ShopingStoreSample\bin\roslyn\System.Diagnostics.StackTrace.dll
+H:\3Month\MVC\ShopingStoreSample - Copy\ShopingStoreSample\bin\roslyn\System.Globalization.Calendars.dll
+H:\3Month\MVC\ShopingStoreSample - Copy\ShopingStoreSample\bin\roslyn\System.IO.Compression.dll
+H:\3Month\MVC\ShopingStoreSample - Copy\ShopingStoreSample\bin\roslyn\System.IO.Compression.ZipFile.dll
+H:\3Month\MVC\ShopingStoreSample - Copy\ShopingStoreSample\bin\roslyn\System.IO.FileSystem.dll
+H:\3Month\MVC\ShopingStoreSample - Copy\ShopingStoreSample\bin\roslyn\System.IO.FileSystem.Primitives.dll
+H:\3Month\MVC\ShopingStoreSample - Copy\ShopingStoreSample\bin\roslyn\System.Net.Http.dll
+H:\3Month\MVC\ShopingStoreSample - Copy\ShopingStoreSample\bin\roslyn\System.Net.Sockets.dll
+H:\3Month\MVC\ShopingStoreSample - Copy\ShopingStoreSample\bin\roslyn\System.Reflection.Metadata.dll
+H:\3Month\MVC\ShopingStoreSample - Copy\ShopingStoreSample\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+H:\3Month\MVC\ShopingStoreSample - Copy\ShopingStoreSample\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+H:\3Month\MVC\ShopingStoreSample - Copy\ShopingStoreSample\bin\roslyn\System.Security.Cryptography.Encoding.dll
+H:\3Month\MVC\ShopingStoreSample - Copy\ShopingStoreSample\bin\roslyn\System.Security.Cryptography.Primitives.dll
+H:\3Month\MVC\ShopingStoreSample - Copy\ShopingStoreSample\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+H:\3Month\MVC\ShopingStoreSample - Copy\ShopingStoreSample\bin\roslyn\System.Text.Encoding.CodePages.dll
+H:\3Month\MVC\ShopingStoreSample - Copy\ShopingStoreSample\bin\roslyn\System.Threading.Tasks.Extensions.dll
+H:\3Month\MVC\ShopingStoreSample - Copy\ShopingStoreSample\bin\roslyn\System.ValueTuple.dll
+H:\3Month\MVC\ShopingStoreSample - Copy\ShopingStoreSample\bin\roslyn\System.Xml.ReaderWriter.dll
+H:\3Month\MVC\ShopingStoreSample - Copy\ShopingStoreSample\bin\roslyn\System.Xml.XmlDocument.dll
+H:\3Month\MVC\ShopingStoreSample - Copy\ShopingStoreSample\bin\roslyn\System.Xml.XPath.dll
+H:\3Month\MVC\ShopingStoreSample - Copy\ShopingStoreSample\bin\roslyn\System.Xml.XPath.XDocument.dll
+H:\3Month\MVC\ShopingStoreSample - Copy\ShopingStoreSample\bin\roslyn\vbc.exe
+H:\3Month\MVC\ShopingStoreSample - Copy\ShopingStoreSample\bin\roslyn\vbc.exe.config
+H:\3Month\MVC\ShopingStoreSample - Copy\ShopingStoreSample\bin\roslyn\vbc.rsp
+H:\3Month\MVC\ShopingStoreSample - Copy\ShopingStoreSample\bin\roslyn\VBCSCompiler.exe
+H:\3Month\MVC\ShopingStoreSample - Copy\ShopingStoreSample\bin\roslyn\VBCSCompiler.exe.config
+H:\3Month\MVC\ShopingStoreSample - Copy\ShopingStoreSample\bin\Antlr3.Runtime.dll
+H:\3Month\MVC\ShopingStoreSample - Copy\ShopingStoreSample\bin\EntityFramework.dll
+H:\3Month\MVC\ShopingStoreSample - Copy\ShopingStoreSample\bin\EntityFramework.SqlServer.dll
+H:\3Month\MVC\ShopingStoreSample - Copy\ShopingStoreSample\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\3Month\MVC\ShopingStoreSample - Copy\ShopingStoreSample\bin\Microsoft.Web.Infrastructure.dll
+H:\3Month\MVC\ShopingStoreSample - Copy\ShopingStoreSample\bin\Newtonsoft.Json.dll
+H:\3Month\MVC\ShopingStoreSample - Copy\ShopingStoreSample\bin\System.Web.Helpers.dll
+H:\3Month\MVC\ShopingStoreSample - Copy\ShopingStoreSample\bin\System.Web.Mvc.dll
+H:\3Month\MVC\ShopingStoreSample - Copy\ShopingStoreSample\bin\System.Web.Optimization.dll
+H:\3Month\MVC\ShopingStoreSample - Copy\ShopingStoreSample\bin\System.Web.Razor.dll
+H:\3Month\MVC\ShopingStoreSample - Copy\ShopingStoreSample\bin\System.Web.WebPages.Deployment.dll
+H:\3Month\MVC\ShopingStoreSample - Copy\ShopingStoreSample\bin\System.Web.WebPages.dll
+H:\3Month\MVC\ShopingStoreSample - Copy\ShopingStoreSample\bin\System.Web.WebPages.Razor.dll
+H:\3Month\MVC\ShopingStoreSample - Copy\ShopingStoreSample\bin\WebGrease.dll
+H:\3Month\MVC\ShopingStoreSample - Copy\ShopingStoreSample\bin\EntityFramework.xml
+H:\3Month\MVC\ShopingStoreSample - Copy\ShopingStoreSample\bin\EntityFramework.SqlServer.xml
+H:\3Month\MVC\ShopingStoreSample - Copy\ShopingStoreSample\bin\System.Web.Helpers.xml
+H:\3Month\MVC\ShopingStoreSample - Copy\ShopingStoreSample\bin\System.Web.Mvc.xml
+H:\3Month\MVC\ShopingStoreSample - Copy\ShopingStoreSample\bin\System.Web.Optimization.xml
+H:\3Month\MVC\ShopingStoreSample - Copy\ShopingStoreSample\bin\System.Web.Razor.xml
+H:\3Month\MVC\ShopingStoreSample - Copy\ShopingStoreSample\bin\System.Web.WebPages.xml
+H:\3Month\MVC\ShopingStoreSample - Copy\ShopingStoreSample\bin\System.Web.WebPages.Deployment.xml
+H:\3Month\MVC\ShopingStoreSample - Copy\ShopingStoreSample\bin\System.Web.WebPages.Razor.xml
+H:\3Month\MVC\ShopingStoreSample - Copy\ShopingStoreSample\bin\Newtonsoft.Json.xml
+H:\3Month\MVC\ShopingStoreSample - Copy\ShopingStoreSample\bin\Antlr3.Runtime.pdb
+H:\3Month\MVC\ShopingStoreSample - Copy\ShopingStoreSample\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\3Month\MVC\ShopingStoreSample - Copy\ShopingStoreSample\obj\Debug\ShopingStoreSample.csproj.CopyComplete

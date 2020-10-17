@@ -1,0 +1,107 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - My ASP.NET Application</title>
+    @Styles.Render("~/Content/HomeStyle")
+    @Scripts.Render("~/bundles/HomeJs")
+</head>
+<body>
+    <header class="header">
+        <div class="header_overlay"></div>
+        <div class="header_content d-flex flex-row align-items-center justify-content-start">
+            <div class="logo">
+                <a href="/Home/index">
+                    <div class="d-flex flex-row align-items-center justify-content-start">
+                        <div><img src="/Content/image/logo_1.png" alt=""></div>
+                        <div>Little Closet</div>
+                    </div>
+                </a>
+            </div>
+
+            <div class="">
+                <a href="/Category/Index" class="btn btn-default">
+                    <div class="d-flex flex-row align-items-center justify-content-start">
+                        <div>Category</div>
+                    </div>
+                </a>
+            </div>
+            <div class="">
+                <a href="/Category/Create" class="btn btn-default">
+                    <div class="d-flex flex-row align-items-center justify-content-start">
+                        <div> Create Category</div>
+                    </div>
+                </a>
+            </div>
+
+            <div class="">
+                <a href="/Products/Index" class="btn btn-default">
+                    <div class="d-flex flex-row align-items-center justify-content-start">
+                        <div> Products</div>
+                    </div>
+                </a>
+            </div>
+
+            <div class="">
+                <a href="/Products/AddProduct" class="btn btn-default">
+                    <div class="d-flex flex-row align-items-center justify-content-start">
+                        <div> Create Product</div>
+                    </div>
+                </a>
+            </div>
+
+
+            <div class="header_right d-flex flex-row align-items-center justify-content-start ml-auto">
+                <!-- Search -->
+                <div class="header_search">
+                    <form action="#" id="header_search_form">
+                        <input type="text" class="search_input" placeholder="Search Item" required="required">
+                        <button class="header_search_button"><img src="/Content/image/search.png" alt=""></button>
+                    </form>
+                </div>
+                <!-- User -->
+                <div class="user"><a href="#"><div><img src="/Content/image/user.svg" alt="https://www.flaticon.com/authors/freepik"><div>1</div></div></a></div>
+                <!-- Cart -->
+                <div class="cart"><a href="/Home/AllOrders"><div><img class="svg" src="/Content/image/cart.svg" alt="https://www.flaticon.com/authors/freepik"></div></a></div>
+                <!-- Phone -->
+                <div class="header_phone d-flex flex-row align-items-center justify-content-start">
+                    <div><div><img src="/Content/image/phone.svg" alt="https://www.flaticon.com/authors/freepik"></div></div>
+                    <div>+1 912-252-7350</div>
+                </div>
+            </div>
+        </div>
+    </header>
+    <!--
+        <div class="navbar navbar-inverse navbar-fixed-top">
+            <div class="container">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    @Html.ActionLink("Application name", "Index", "Home", new { area = "" }, new { @class = "navbar-brand" })
+                </div>
+                <div class="navbar-collapse collapse">
+                    <ul class="nav navbar-nav">
+                        <li>@Html.ActionLink("Home", "Index", "Home")</li>
+                        <li>@Html.ActionLink("About", "About", "Home")</li>
+                        <li>@Html.ActionLink("Contact", "Contact", "Home")</li>
+                    </ul>
+                </div>
+            </div>
+        </div>-->
+    <div class="container body-content">
+        @RenderBody()
+        <hr />
+        <footer>
+            <p>&copy; @DateTime.Now.Year - My ASP.NET Application</p>
+        </footer>
+    </div>
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+</body>
+</html>
